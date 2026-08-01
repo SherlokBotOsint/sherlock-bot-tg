@@ -60,18 +60,16 @@
 
 ### Почему результат может быть неточным?
 
-Идентификаторы меняются и повторно используются, а источники обновляются с разной скоростью. Всегда проверяйте первоисточник.
-
-## Полезные материалы
-
-- [Шерлок бот — подробная инструкция](https://github.com/SherlokBotOsint/sherlok-bot-telegram)
-- [Шерлок бот бесплатно](https://github.com/SherlokBotOsint/sherlock-bot-besplatno)
-- [OSINT-боты Telegram](https://github.com/SherlokBotOsint/osint-boty-telegram)
-
-## Итог
-
-Для безопасного старта используйте сохранённый официальный адрес и проверяйте каждое совпадение вручную. [Перейти на официальный сайт Шерлок](https://sherlokk.bot).
-
 ---
 
-Материал посвящён законному поиску по открытым источникам. Не используйте OSINT для преследования, угроз, взлома, покупки утечек или публикации чужих персональных данных.
+<!-- related:start -->
+## Связанные статьи
+
+- [Sherlock Bot бесплатно](https://github.com/SherlokBotOsint/sherlock-bot-besplatno)
+- [Бот для пробива: как выбрать](https://github.com/SherlokBotOsint/bot-dlya-probiva)
+- [OSINT-боты в Telegram](https://github.com/SherlokBotOsint/osint-boty-telegram)
+- [Бот для поиска людей](https://github.com/SherlokBotOsint/bot-dlya-poiska-lyudey)
+- [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
+
+Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+<!-- related:end -->
